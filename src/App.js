@@ -9,10 +9,10 @@ import "./styles/app.scss";
 function App() {
   return (
     <BrowserRouter>
-      {/* <Header /> */}
+      <Header />
       <Routes>
-        {/* <Route path="/" element={<Home />} /> */}
-        {/* <Route path="/cart" element={<Cart />} /> */}
+        <Route path="/" element={<Home />} />
+        <Route path="/cart" element={<Cart />} />
       </Routes>
       <Toaster />
     </BrowserRouter>
