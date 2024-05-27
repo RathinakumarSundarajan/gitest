@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+
+.App {
+  text-align: center;
+  background-color: blueviolet;
+  color: white;
+ 
+ 
+}
+
+.App{
+  width: auto;
+  height: 100vh;
+    background: rgb(2,0,36);
+  background: linear-gradient(30deg, rgb(89, 249, 72)0%, rgb(56, 63, 247) 35%, rgb(68, 1, 131) 90%);
+  }
+  
